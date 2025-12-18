@@ -1,0 +1,16 @@
+body {
+  background: #0f172a;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+
+img, video {
+  margin: 10px;
+  border-radius: 10px;
+}
